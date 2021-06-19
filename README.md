@@ -5,7 +5,7 @@
   
 <h3>Hi there! 👋🤓<br> My name is Júlio Hsu<br> I am also a React Lover ☺️ ❤️ </h3>
 
-<h4> <a href="https://www.linkedin.com/in/j%C3%BAlio-hsu-6363231b7/">Check out my Linkedin!</a> </h4>
+<h4> <a href=" www.linkedin.com/in/juliohsu">Linkedin</a> | <a href="https://www.freecodecamp.org/certification/fcc8e49eb0b-acd7-4eeb-b089-40a1da44ec77/javascript-algorithms-and-data-structures">Developer Certification</a> | <a href="https://www.freecodecamp.org/certification/fcc8e49eb0b-acd7-4eeb-b089-40a1da44ec77/responsive-web-design">Web Design Certification</a></h4>
 
 <hr width="30%" style="height:5px;">
 
