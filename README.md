@@ -3,11 +3,9 @@
 
   <br>
   
-<h3>Hi there! 👋🤓<br> My name is Júlio Hsu and<br> React Lover ☺️ ❤️ ...</h3>
+<h3>Hi there! 👋🤓<br> My name is Júlio Hsu and<br> I am a React Lover ☺️ ❤️ ...</h3>
 
 <h4> <a href="https://www.linkedin.com/in/j%C3%BAlio-hsu-6363231b7/">Linkedin</a> </h4>
-
-<img src="./assinatura.pdf" width="100">
 
 <hr width="50%" style="height:5px;">
 
