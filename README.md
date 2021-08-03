@@ -23,7 +23,7 @@
 
   
   
-<h2 align="center"> Feel free to contact with me </h2>
+<h2 align="center"> Feel free to contact with me, check out my website too! <a href="kroissant.vercel.app" target="_blank"></a> </h2>
   
 🥰  I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, <br>
 as continuing to learn new languages  and development techniques are important to me and the success of the society. <br>
