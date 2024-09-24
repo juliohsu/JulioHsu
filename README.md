@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./react.png" alt="React's Header">
+  <img src="./ai.jpeg" alt="React's Header">
   
   Artificial Neural Networks Development ☺️ ❤️
 
