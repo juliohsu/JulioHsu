@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="./ai.jpeg" alt="React's Header">
-  
-  Artificial Neural Networks Development ☺️ ❤️
-
-  <br>
   
 <h3>Hey What's up! 👋  <br> My name is Julio Hsu, currently focusing on Machine Learning...<br> </h3>
 
