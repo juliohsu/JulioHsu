@@ -11,7 +11,6 @@
 - I am passionated person on software AI development, who is studying a Bachelor’s degree in Computer Science.
 - I have hands-on experience of university/commercial AI projects, check out my repo!!!
 - Focusing recently in ML competitions such as Kaggle, its kind of fun <3
-- I’m looking to collaborate on opensource AI development, businesses app creation and contribute to the society.
   
 <h2 align="center"> Feel free to contact with me, check out my LinkedIn too! <a href="https://www.linkedin.com/in/juliohsu/" target="_blank">CHECK!</a> </h2>
   
