@@ -9,7 +9,7 @@
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
 - I am passionated person on software AI development, who is studying a Bachelor’s degree in Computer Science.
-- I have hands-on experience of university/commercial AI projects, check out my repo!!!
+- I have hands-on experience of university/commercial AI projects.
 - Focusing recently in ML competitions such as Kaggle, its kind of fun <3
   
 <h2 align="center"> Feel free to contact with me, check out my LinkedIn too! <a href="https://www.linkedin.com/in/juliohsu/" target="_blank">CHECK!</a> </h2>
