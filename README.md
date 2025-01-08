@@ -1,6 +1,6 @@
 <div align="center">
   
-<h3>Hey What's up! 👋  <br><br> My name is Julio Hsu, currently focusing on webapp PYTORCH SELF-IMPLEMENT AI MODEL, along with TYPESCRIPT + REACT and NODEJS + EXPRESS <br> </h3>
+<h3>Hey What's up! 👋  <br><br> My name is Julio Hsu, currently focusing on learning PYTORCH SELF-IMPLEMENT AI MODEL, along with TYPESCRIPT + REACT and NODEJS + EXPRESS <br> </h3>
 
 <h4> <a href="https://coursera.org/share/8047a087cf018e6eee05cdfdcf76001c">Data Analysis Certification</a> | <a href="https://coursera.org/share/d0407e9d8b29cacd83bedfd96dbc4d4f">Supervised Machine Learning Certification</a> | <a href="https://coursera.org/share/9b224ae85c1db4f4620d917b1c895669">Advanced Learning Algorithms Certification</a>
 
