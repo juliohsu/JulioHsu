@@ -9,7 +9,7 @@
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
 - I am a person on THAT LOVE LEARNING <3 
-- I have hands-on experience of university/commercial development projects, such as KROISSANT WEBAPP "kroissant.com.br" and "compra.kroissant.com.br" frontend TYPESCRIPT + REACT / backend NODEJS EXPRESS / db ORACLE CLOUD .
+- I have hands-on experience of university/commercial development projects, such as KROISSANT WEBAPP "kroissant.com.br" and "compra.kroissant.com.br", which i have implement the frontend in TYPESCRIPT + REACT / backend in NODEJS EXPRESS / db in ORACLE CLOUD .
 - Recently focusing on KAGGLE ML competitions and continously learning how to implement AI model from zero with PYTORCH, which its kind of fun haha
   
 <h2 align="center"> Feel free to contact with me, check out my LinkedIn too! <a href="https://www.linkedin.com/in/juliohsu/" target="_blank">CHECK!</a> </h2>
