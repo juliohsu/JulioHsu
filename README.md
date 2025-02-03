@@ -15,3 +15,5 @@ Recently focusing on KAGGLE ML competitions and continously learning how to impl
   
 🥰  I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, <br>
 as continuing to learn new languages  and development techniques are important to me and the success of the society. <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliohsu)](https://github.com/juliohsu/github-readme-stats) <br>
