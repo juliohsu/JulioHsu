@@ -7,7 +7,7 @@
 <hr width="30%" style="height:5px;">
   
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
-I am a person on THAT LOVE LEARNING <3 <br><br>
+SOLO LEVELING <3 <br><br>
   
 <h2 align="center"> Feel free to contact with me, check out my LinkedIn too! <a href="https://www.linkedin.com/in/juliohsu/" target="_blank">CHECK!</a> </h2>
   
